@@ -65,15 +65,16 @@ todo-app/
 ```bash
 git clone https://github.com/KSaurabh2001/TODO-Application.git
 cd TODO-Application
-
+```
 ## 🧪  Configure MySQL database
 
-spring:
+```spring:
   datasource:
     url: jdbc:mysql://localhost:3306/todo_db
     username: yourUsername
     password: yourPassword
+```
 
-📬 Contact
+## 📬 Contact
 📧 saurabh.kumar20010218@gmail.com
 🔗 GitHub: KSaurabh2001
